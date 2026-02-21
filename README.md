@@ -7,6 +7,9 @@ Hello! This thesis project was created using RPGMaker MV by BSEMC students of We
 # MOTIVATION
 The motivation for the creation of this project is to create a game that promotes the accomplishments of Iloilo City for its acknowledgement of UNESCO for being the city of Gastronomy. Not only that but to highlight the dishes that promotes Iloilo City.
 
+# INSTALLATION
+To install the game, download the entirety of the folder's content and once you have downloaded the entire folder, locate the Game.exe application to run the game.
+
 # GROUP MEMBERS
 - Rizdy L. Huyatid
 - Henry R. Nopueto
