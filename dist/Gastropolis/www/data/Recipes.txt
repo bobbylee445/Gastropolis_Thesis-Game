@@ -1,0 +1,917 @@
+<recipe1>
+   result:{type:"item", id:301, amount:1}
+   <materials>
+   {type:"item", id:302, amount:1, cons:false}
+   {type:"item", id:303, amount:1, cons:false}
+   <materials>
+   goldCost:0
+   success:100
+   successGain:5
+   level:1
+   category:Crafting
+   xp:50
+   xpDeprac:5
+   craftLevel:1
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe1>
+
+
+<recipe2>
+   result:{type:"item", id:302, amount:1}
+   <materials>
+   {type:"item", id:002, amount:2, cons:false}
+   {type:"item", id:12, amount:1, cons:false}
+   {type:"item", id:45, amount:1, cons:false}
+   {type:"item", id:13, amount:1, cons:false}
+   {type:"item", id:005, amount:2, cons:false}
+   {type:"item", id:65, amount:2, cons:false}
+
+   <materials>
+   goldCost:0
+   success:40
+   successGain:15
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:1
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe2>
+
+<recipe3>
+   result:{type:"item", id:303, amount:1}
+   <materials>
+   {type:"item", id:22, amount:1, cons:false}
+   {type:"item", id:23, amount:2, cons:false}
+   {type:"item", id:2, amount:1, cons:false}
+   
+   <materials>
+   goldCost:0
+   success:60
+   successGain:5
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:1
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe3>
+
+<recipe4>
+   result:{type:"item", id:304, amount:1}
+   <materials>
+   {type:"item", id:24, amount:1, cons:false}
+   {type:"item", id:12, amount:2, cons:false}
+   {type:"item", id:37, amount:3, cons:false}
+   {type:"item", id:05, amount:2, cons:false}
+   
+   <materials>
+   goldCost:0
+   success:100
+   successGain:5
+   level:1
+   category:Crafting
+   xp:40
+   xpDeprac:5
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe4>
+
+<recipe5>
+   result:{type:"item", id:305, amount:1}
+   <materials>
+   {type:"item", id:14, amount:1, cons:false}
+   {type:"item", id:46, amount:1, cons:false}
+   {type:"item", id:17, amount:2, cons:false}
+  
+   <materials>
+   goldCost:0
+   success:55
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:4
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe5>
+
+<recipe6>
+   result:{type:"item", id:306, amount:1}
+   <materials>
+   {type:"item", id:22, amount:1, cons:false}
+   {type:"item", id:02, amount:1, cons:false}
+   {type:"item", id:23, amount:2, cons:false}
+   {type:"item", id:18, amount:2, cons:false}
+   
+   <materials>
+   goldCost:0
+   success:100
+   successGain:0
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:1
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe6>
+
+<recipe7>
+   result:{type:"item", id:307, amount:1}
+   <materials>
+   {type:"item", id:62, amount:3, cons:false}
+   {type:"item", id:63, amount:1, cons:false}
+   {type:"item", id:17, amount:2, cons:false}
+   {type:"item", id:46, amount:1, cons:false}
+   {type:"item", id:61, amount:2, cons:false}
+   {type:"item", id:40, amount:1, cons:false}
+   
+   <materials>
+   goldCost:0
+   success:80
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe7>
+
+<recipe8>
+   result:{type:"item", id:308, amount:1}
+   <materials>
+   {type:"item", id:23, amount:2, cons:false}
+   {type:"item", id:45, amount:1, cons:false}
+   {type:"item", id:62, amount:1, cons:false}
+   
+   <materials>
+   goldCost:0
+   success:60
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:1
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe8>
+
+<recipe9>
+   result:{type:"item", id:309, amount:1}
+   <materials>
+   {type:"item", id:310, amount:1, cons:false}
+   {type:"item", id:311, amount:1, cons:false}
+
+   <materials>
+   goldCost:0
+   success:100
+   successGain:5
+   level:1
+   category:Crafting
+   xp:50
+   xpDeprac:5
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe9>
+
+<recipe10>
+   result:{type:"item", id:310, amount:1}
+   <materials>
+   {type:"item", id:02, amount:3, cons:false}
+   {type:"item", id:12, amount:1, cons:false}
+   {type:"item", id:13, amount:1, cons:false}
+   {type:"item", id:34, amount:1, cons:false}
+   {type:"item", id:64, amount:2, cons:false}
+   
+   <materials>
+   goldCost:0
+   success:40
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe10>
+
+<recipe11>
+   result:{type:"item", id:311, amount:1}
+   <materials>
+   {type:"item", id:20, amount:2, cons:false}
+   {type:"item", id:23, amount:2, cons:false}
+   {type:"item", id:26, amount:2, cons:false}
+   {type:"item", id:12, amount:1, cons:false}
+   {type:"item", id:13, amount:1, cons:false}
+   
+   <materials>
+   goldCost:0
+   success:50
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe11>
+
+<recipe12>
+   result:{type:"item", id:312, amount:1}
+   <materials>
+   {type:"item", id:02, amount:3, cons:false}
+   {type:"item", id:04, amount:2, cons:false}
+   {type:"item", id:41, amount:5, cons:false}
+   {type:"item", id:12, amount:2, cons:false}
+   {type:"item", id:20, amount:1, cons:false}
+   {type:"item", id:13, amount:1, cons:false}
+   {type:"item", id:37, amount:3, cons:false}
+   {type:"item", id:56, amount:2, cons:false}
+
+   <materials>
+   goldCost:0
+   success:60
+   successGain:10
+   level:1
+   category:Crafting
+   xp:50
+   xpDeprac:5
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe12>
+
+<recipe13>
+   result:{type:"item", id:313, amount:1}
+   <materials>
+   {type:"item", id:67, amount:1, cons:false}
+   {type:"item", id:19, amount:2, cons:false}
+   {type:"item", id:12, amount:1, cons:false}
+   {type:"item", id:13, amount:1, cons:false}
+   {type:"item", id:50, amount:1, cons:false}
+ 
+   <materials>
+   goldCost:0
+   success:50
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe13>
+
+<recipe14>
+   result:{type:"item", id:314, amount:1}
+   <materials>
+   {type:"item", id:20, amount:2, cons:false}
+   {type:"item", id:03, amount:2, cons:false}
+   {type:"item", id:33, amount:3, cons:false}
+   {type:"item", id:13, amount:1, cons:false}
+
+   <materials>
+   goldCost:0
+   success:55
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe14>
+
+<recipe15>
+   result:{type:"item", id:315, amount:1}
+   <materials>
+   {type:"item", id:21, amount:2, cons:false}
+   {type:"item", id:54, amount:1, cons:false}
+   {type:"item", id:41, amount:3, cons:false}
+   {type:"item", id:05, amount:1, cons:false}
+   {type:"item", id:33, amount:2, cons:false}
+
+   <materials>
+   goldCost:0
+   success:70
+   successGain:10
+   level:1
+   category:Crafting
+   xp:40
+   xpDeprac:3
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe15>
+
+<recipe16>
+   result:{type:"item", id:316, amount:1}
+   <materials>
+   {type:"item", id:17, amount:1, cons:false}
+   {type:"item", id:16, amount:1, cons:false}
+   {type:"item", id:58, amount:2, cons:false}
+
+   <materials>
+   goldCost:0
+   success:100
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe16>
+
+<recipe17>
+   result:{type:"item", id:317, amount:1}
+   <materials>
+   {type:"item", id:20, amount:1, cons:false}
+   {type:"item", id:07, amount:3, cons:false}
+   {type:"item", id:05, amount:2, cons:false}
+   {type:"item", id:33, amount:2, cons:false}
+   {type:"item", id:12, amount:1, cons:false}
+   {type:"item", id:13, amount:1, cons:false}
+   {type:"item", id:35, amount:3, cons:false}
+
+   <materials>
+   goldCost:0
+   success:50
+   successGain:10
+   level:1
+   category:Crafting
+   xp:40
+   xpDeprac:3
+   craftLevel:4
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe17>
+
+<recipe18>
+   result:{type:"item", id:318, amount:1}
+   <materials>
+   {type:"item", id:303, amount:1, cons:false}
+   {type:"item", id:35, amount:2, cons:false}
+   {type:"item", id:50, amount:2, cons:false}
+   {type:"item", id:44, amount:2, cons:false}
+  
+   <materials>
+   goldCost:0
+   success:60
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe18>
+
+<recipe19>
+   result:{type:"item", id:319, amount:1}
+   <materials>
+   {type:"item", id:303, amount:1, cons:false}
+   {type:"item", id:26, amount:5, cons:false}
+   {type:"item", id:23, amount:2, cons:false}
+   {type:"item", id:34, amount:1, cons:false}
+
+   <materials>
+   goldCost:0
+   success:55
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe19>
+
+<recipe20>
+   result:{type:"item", id:320, amount:1}
+   <materials>
+   {type:"item", id:20, amount:1, cons:false}
+   {type:"item", id:12, amount:2, cons:false}
+   {type:"item", id:13, amount:1, cons:false}
+   {type:"item", id:30, amount:1, cons:false}
+
+   <materials>
+   goldCost:0
+   success:60
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe20>
+
+<recipe21>
+   result:{type:"item", id:321, amount:1}
+   <materials>
+   {type:"item", id:68, amount:1, cons:false}
+   {type:"item", id:04, amount:2, cons:false}
+   {type:"item", id:07, amount:3, cons:false}
+   {type:"item", id:59, amount:2, cons:false}
+   {type:"item", id:35, amount:3, cons:false}
+
+   <materials>
+   goldCost:0
+   success:100
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe21>
+
+<recipe22>
+   result:{type:"item", id:322, amount:1}
+   <materials>
+   {type:"item", id:14, amount:1, cons:false}
+   {type:"item", id:19, amount:1, cons:false}
+   {type:"item", id:64, amount:2, cons:false}
+   {type:"item", id:30, amount:1, cons:false}
+   {type:"item", id:59, amount:2, cons:false}
+   {type:"item", id:05, amount:2, cons:false}
+   {type:"item", id:33, amount:3, cons:false}
+
+   <materials>
+   goldCost:0
+   success:40
+   successGain:10
+   level:1
+   category:Crafting
+   xp:40
+   xpDeprac:3
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe22>
+
+<recipe23>
+   result:{type:"item", id:323, amount:1}
+   <materials>
+   {type:"item", id:65, amount:2, cons:false}
+   {type:"item", id:20, amount:1, cons:false}
+   {type:"item", id:04, amount:2, cons:false}
+   {type:"item", id:07, amount:1, cons:false}
+  
+   <materials>
+   goldCost:0
+   success:50
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:4
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe23>
+
+<recipe24>
+   result:{type:"item", id:324, amount:1}
+   <materials>
+   {type:"item", id:29, amount:1, cons:false}
+   {type:"item", id:59, amount:1, cons:false}
+   {type:"item", id:32, amount:2, cons:false}
+   {type:"item", id:02, amount:3, cons:false}
+
+   <materials>
+   goldCost:0
+   success:60
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe24>
+
+<recipe25>
+   result:{type:"item", id:325, amount:1}
+   <materials>
+   {type:"item", id:21, amount:2, cons:false}
+   {type:"item", id:37, amount:2, cons:false}
+   {type:"item", id:38, amount:2, cons:false}
+   {type:"item", id:08, amount:2, cons:false}
+
+   <materials>
+   goldCost:0
+   success:50
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe25>
+
+<recipe26>
+   result:{type:"item", id:326, amount:1}
+   <materials>
+   {type:"item", id:41, amount:3, cons:false}
+   {type:"item", id:53, amount:2, cons:false}
+   {type:"item", id:36, amount:1, cons:false}
+   {type:"item", id:57, amount:2, cons:false}
+ 
+   <materials>
+   goldCost:0
+   success:60
+   successGain:10
+   level:1
+   category:Crafting
+   xp:40
+   xpDeprac:3
+   craftLevel:4
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe26>
+
+<recipe27>
+   result:{type:"item", id:327, amount:1}
+   <materials>
+   {type:"item", id:58, amount:2, cons:false}
+   {type:"item", id:17, amount:1, cons:false}
+   {type:"item", id:45, amount:1, cons:false}
+
+   <materials>
+   goldCost:0
+   success:55
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:4
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe27>
+
+<recipe28>
+   result:{type:"item", id:328, amount:1}
+   <materials>
+   {type:"item", id:58, amount:1, cons:false}
+   {type:"item", id:17, amount:2, cons:false}
+   {type:"item", id:45, amount:1, cons:false}
+  
+   <materials>
+   goldCost:0
+   success:50
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:4
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe28>
+
+<recipe29>
+   result:{type:"item", id:329, amount:1}
+   <materials>
+   {type:"item", id:58, amount:2, cons:false}
+   {type:"item", id:46, amount:2, cons:false}
+   {type:"item", id:17, amount:1, cons:false}
+   
+   <materials>
+   goldCost:0
+   success:55
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:4
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe29>
+
+<recipe30>
+   result:{type:"item", id:330, amount:1}
+   <materials>
+   {type:"item", id:22, amount:2, cons:false}
+   {type:"item", id:20, amount:1, cons:false}
+   {type:"item", id:23, amount:2, cons:false}
+
+   <materials>
+   goldCost:0
+   success:60
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:1
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe30>
+
+<recipe31>
+   result:{type:"item", id:331, amount:1}
+   <materials>
+   {type:"item", id:22, amount:3, cons:false}
+   {type:"item", id:43, amount:2, cons:false}
+   {type:"item", id:45, amount:1, cons:false}
+   {type:"item", id:17, amount:1, cons:false}
+  
+   <materials>
+   goldCost:0
+   success:100
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe31>
+
+<recipe32>
+   result:{type:"item", id:332, amount:1}
+   <materials>
+   {type:"item", id:02, amount:1, cons:false}
+   {type:"item", id:46, amount:1, cons:false}
+   {type:"item", id:17, amount:2, cons:false}
+  
+   <materials>
+   goldCost:0
+   success:55
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe32>
+
+<recipe33>
+   result:{type:"item", id:333, amount:1}
+   <materials>
+   {type:"item", id:60, amount:1, cons:false}
+   {type:"item", id:37, amount:2, cons:false}
+   {type:"item", id:12, amount:1, cons:false}
+   {type:"item", id:03, amount:1, cons:false}
+   {type:"item", id:05, amount:3, cons:false}
+
+   <materials>
+   goldCost:0
+   success:60
+   successGain:10
+   level:1
+   category:Crafting
+   xp:40
+   xpDeprac:3
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe33>
+
+<recipe34>
+   result:{type:"item", id:334, amount:1}
+   <materials>
+   {type:"item", id:10, amount:2, cons:false}
+   {type:"item", id:67, amount:2, cons:false}
+   {type:"item", id:46, amount:1, cons:false}
+
+   <materials>
+   goldCost:0
+   success:60
+   successGain:10
+   level:1
+   category:Crafting
+   xp:20
+   xpDeprac:2
+   craftLevel:1
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe34>
+
+<recipe35>
+   result:{type:"item", id:335, amount:1}
+   <materials>
+   {type:"item", id:61, amount:3, cons:false}
+   {type:"item", id:62, amount:2, cons:false}
+   {type:"item", id:16, amount:2, cons:false}
+   {type:"item", id:17, amount:2, cons:false}
+   {type:"item", id:46, amount:1, cons:false}
+   {type:"item", id:39, amount:1, cons:false}
+
+   <materials>
+   goldCost:0
+   success:60
+   successGain:5
+   level:1
+   category:Crafting
+   xp:40
+   xpDeprac:3
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe35>
+
+<recipe36>
+   result:{type:"item", id:336, amount:1}
+   <materials>
+   {type:"item", id:62, amount:3, cons:false}
+   {type:"item", id:18, amount:3, cons:false}
+   {type:"item", id:45, amount:1, cons:false}
+   {type:"item", id:39, amount:2, cons:false}
+
+   <materials>
+   goldCost:0
+   success:40
+   successGain:10
+   level:1
+   category:Crafting
+   xp:40
+   xpDeprac:3
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe36>
+
+<recipe37>
+   result:{type:"item", id:337, amount:1}
+   <materials>
+   {type:"item", id:25, amount:3, cons:false}
+   {type:"item", id:12, amount:3, cons:false}
+   {type:"item", id:13, amount:3, cons:false}
+
+   <materials>
+   goldCost:0
+   success:50
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:2
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe37>
+
+<recipe38>
+   result:{type:"item", id:338, amount:1}
+   <materials>
+   {type:"item", id:02, amount:3, cons:false}
+   {type:"item", id:49, amount:3, cons:false}
+   {type:"item", id:12, amount:3, cons:false}
+   {type:"item", id:13, amount:1, cons:false}
+   {type:"item", id:05, amount:2, cons:false}
+   {type:"item", id:37, amount:2, cons:false}
+   {type:"item", id:34, amount:2, cons:false}
+
+   <materials>
+   goldCost:0
+   success:40
+   successGain:10
+   level:1
+   category:Crafting
+   xp:50
+   xpDeprac:5
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe38>
+
+<recipe39>
+   result:{type:"item", id:339, amount:1}
+   <materials>
+   {type:"item", id:32, amount:3, cons:false}
+   {type:"item", id:33, amount:3, cons:false}
+   {type:"item", id:59, amount:3, cons:false}
+   {type:"item", id:09, amount:1, cons:false}
+   {type:"item", id:05, amount:2, cons:false}
+
+   <materials>
+   goldCost:0
+   success:55
+   successGain:10
+   level:1
+   category:Crafting
+   xp:30
+   xpDeprac:2
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe39>
+
+<recipe40>
+   result:{type:"item", id:340, amount:1}
+   <materials>
+   {type:"item", id:02, amount:3, cons:false}
+   {type:"item", id:33, amount:3, cons:false}
+   {type:"item", id:36, amount:3, cons:false}
+   {type:"item", id:41, amount:1, cons:false}
+   {type:"item", id:59, amount:2, cons:false}
+   {type:"item", id:53, amount:2, cons:false}
+   {type:"item", id:57, amount:2, cons:false}
+
+   <materials>
+   goldCost:0
+   success:40
+   successGain:10
+   level:1
+   category:Crafting
+   xp:40
+   xpDeprac:3
+   craftLevel:3
+   pxp:5
+   craftMultiple:true
+   known:false
+<recipe40>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
