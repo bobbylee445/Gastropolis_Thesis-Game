@@ -9,6 +9,7 @@ The motivation for the creation of this project is to create a game that promote
 
 # INSTALLATION
 To install the game, download the entirety of the folder's content and once you have downloaded the entire folder, locate the Game.exe application to run the game.
+-https://drive.google.com/drive/folders/1yuY8W0UzDnckqG-k_axU5VEzpfzDMOTN?usp=sharing
 
 # GROUP MEMBERS
 - Rizdy L. Huyatid
