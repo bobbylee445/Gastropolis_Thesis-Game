@@ -1,0 +1,8 @@
+# DISCLAIMER
+This project and its documentation entitled " GASTROPOLIS: A CULIARY INTROSPECTIVE OF ILOILO CUISINE" is
+submitted to the College of Information and Communications Technology, West Visayas State University, in 
+partial fulfillment of the requirements for the degree, Bachelor of Science in Entertainment and Multimedia Computing. 
+This product is of our own work, with the exception of the utilization of the game engine RPGMaker MV.
+
+-We hereby grant the College of Information and Communications Technology permission to freely use, publish in local or international journal/conferences, reproduce, 
+or distribute publicly the paper and electronic copies of this software project and its corresponding documentation in whole or in part, provided that we are acknowledged.
